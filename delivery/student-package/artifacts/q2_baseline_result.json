@@ -1,0 +1,9 @@
+{
+  "task": "q2_latency",
+  "num_prompts": 8,
+  "mean_latency_sec": 2.8600990957638714,
+  "median_latency_sec": 2.819837649993133,
+  "p95_latency_sec": 3.1865929550258443,
+  "max_latency_sec": 3.1865929550258443,
+  "mean_output_tokens": 128
+}

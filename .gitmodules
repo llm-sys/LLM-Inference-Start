@@ -1,0 +1,12 @@
+[submodule "nano-vllm"]
+	path = nano-vllm
+	url = https://github.com/GeeeekExplorer/nano-vllm.git
+[submodule "sglang"]
+	path = sglang
+	url = https://github.com/sgl-project/sglang.git
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/vllm-project/vllm.git
+[submodule "vllm-ascend"]
+	path = vllm-ascend
+	url = https://github.com/vllm-project/vllm-ascend.git

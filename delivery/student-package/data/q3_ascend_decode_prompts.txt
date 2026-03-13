@@ -1,0 +1,23 @@
+请用一段简洁文字解释 retrieval augmentation 的核心作用。
+<END_OF_PROMPT>
+请概括 mixture-of-experts 与 dense transformer 在推理路径上的主要区别。
+<END_OF_PROMPT>
+请解释 continuous batching 为什么能提高在线推理系统吞吐。
+<END_OF_PROMPT>
+请说明 prefix cache 命中时，推理系统为什么会更快。
+<END_OF_PROMPT>
+请解释 speculative decoding 的基本思想与收益来源。
+<END_OF_PROMPT>
+请用一段话解释 paged kv cache 为什么适合大模型服务。
+<END_OF_PROMPT>
+请说明 tensor parallel 与 expert parallel 的差异。
+<END_OF_PROMPT>
+请概括编译图捕获在 decode 阶段的主要优化价值。
+<END_OF_PROMPT>
+请解释为什么 MoE 模型的并行策略选择会影响推理性能。
+<END_OF_PROMPT>
+请概括 data parallel 在离线批处理推理中的常见用法。
+<END_OF_PROMPT>
+请说明 batch size、prompt length、output length 三者如何共同影响推理性能。
+<END_OF_PROMPT>
+请用一段简洁文字解释 online serving 中 latency 与 throughput 的权衡。

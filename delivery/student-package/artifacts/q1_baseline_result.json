@@ -1,0 +1,12 @@
+{
+  "task": "q1_prefix_tpt",
+  "model": "/ceph/arknet/hf_models/Qwen/Qwen3-14B",
+  "dataset": "student-package/data/q1_prefix_prompts.txt",
+  "num_prompts": 48,
+  "total_prompt_tokens": 54662,
+  "total_output_tokens": 48,
+  "elapsed_sec": 0.24696288397535682,
+  "prompt_tokens_per_sec": 221336.90342494723,
+  "output_tokens_per_sec": 194.3611899381191,
+  "engine_choice": "path_a"
+}

@@ -1,0 +1,40 @@
+# IDE / OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Secrets and private materials
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+.env
+.env.*
+
+# Delivery login secrets
+delivery/student-package/login/key
+delivery/student-package/login/*.pem
+delivery/student-package/login/*.key
+
+# Teacher-side / private materials
+codex-todo.md
+delivery/DELIVERY_STATUS.md
+delivery/generate_datasets.py
+delivery/private-solution/
+
+# Local runtime / temp
+tmp/
+temp/
