@@ -5,8 +5,8 @@
   "num_prompts": 48,
   "total_prompt_tokens": 54662,
   "total_output_tokens": 48,
-  "elapsed_sec": 0.24696288397535682,
-  "prompt_tokens_per_sec": 221336.90342494723,
-  "output_tokens_per_sec": 194.3611899381191,
+  "elapsed_sec": 0.24306451599113643,
+  "prompt_tokens_per_sec": 224886.79508445115,
+  "output_tokens_per_sec": 197.47843408681817,
   "engine_choice": "path_a"
 }
