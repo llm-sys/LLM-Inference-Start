@@ -29,12 +29,12 @@
   - `layout = layout_b`
   - `engine_mode = mode_a`
 - baseline 参考值：
-  - `output_tokens_per_sec ≈ 141.66`
+  - `output_tokens_per_sec ≈ 140.00`
 
 ## 计分方式
 
 - 核心指标：`output_tokens_per_sec`
-- 满分线：`>= 338`
+- 满分线：`>= 333`
 
 ## 提示
 
