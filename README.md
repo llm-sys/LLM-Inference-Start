@@ -1,4 +1,4 @@
-# ICIP Advenced AI Infra
+# ICIP LLM-Inference-Start
 
 这个仓库整理了 `AI Inference Infra` 基础课程的公开材料，重点覆盖推理框架阅读、性能测试方法和平台侧优化作业。
 
