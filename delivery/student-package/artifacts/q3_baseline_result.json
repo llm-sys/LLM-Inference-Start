@@ -2,11 +2,11 @@
   "layout": "layout_b",
   "engine_mode": "mode_a",
   "num_prompts": 8,
-  "prompt_char_count": 305,
-  "timed_iters": 3,
-  "mean_latency_sec": 7.101673295643802,
-  "median_latency_sec": 7.115525183035061,
-  "p95_latency_sec": 7.202182587003335,
-  "total_output_tokens_per_iter": 1006,
-  "output_tokens_per_sec": 141.65675582641697
+  "prompt_char_count": 183,
+  "timed_iters": 1,
+  "mean_latency_sec": 7.31416665087454,
+  "median_latency_sec": 7.31416665087454,
+  "p95_latency_sec": 7.31416665087454,
+  "total_output_tokens_per_iter": 1024,
+  "output_tokens_per_sec": 140.00228623620333
 }
